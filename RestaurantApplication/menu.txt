@@ -1,0 +1,2 @@
+Burger | 12 | Bread, 1 | Lettuce, 1 | Beef Patty, 1 | Cheese, 1 | Tomato, 1 | Pickle, 1 | Onion, 1
+Salad | 6 | Lettuce, 5 | Onion, 0.5 | Crouton, 1 | Cheese, 0.1

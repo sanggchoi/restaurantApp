@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<fx:root dividerPositions="0.5" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="650.0" prefWidth="900.0" type="SplitPane" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <items>
+      <AnchorPane prefHeight="600.0" prefWidth="400.0">
+         <children>
+            <ListView fx:id="tableList" layoutX="14.0" layoutY="59.0" prefHeight="200.0" prefWidth="200.0" />
+            <Label layoutX="14.0" layoutY="42.0" text="Tables" />
+            <ListView fx:id="orderList" layoutX="222.0" layoutY="59.0" prefHeight="200.0" prefWidth="200.0" />
+            <Label layoutX="222.0" layoutY="42.0" text="Orders" />
+            <TextField fx:id="addTableInput" layoutX="14.0" layoutY="259.0" prefHeight="25.0" prefWidth="150.0" />
+            <Button fx:id="addTableButton" layoutX="163.0" layoutY="259.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="51.0" text="Add" />
+            <Button fx:id="addOrderButton" layoutX="321.0" layoutY="259.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="101.0" text="Add" />
+            <Label layoutX="14.0" layoutY="307.0" text="Notifications" />
+            <TextArea fx:id="notificationBox" editable="false" layoutX="14.0" layoutY="326.0" prefHeight="108.0" prefWidth="200.0" />
+            <ListView fx:id="pendingDeliveries" layoutX="222.0" layoutY="365.0" prefHeight="243.0" prefWidth="200.0" />
+            <Button fx:id="confirmDelivery" layoutX="222.0" layoutY="609.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="200.0" text="Confirm Delivery" />
+            <Label layoutX="223.0" layoutY="348.0" text="To Be Delivered" />
+            <ListView fx:id="orderedDishListView" layoutX="14.0" layoutY="480.0" prefHeight="126.0" prefWidth="200.0" />
+            <Label layoutX="14.0" layoutY="459.0" text="Ordered Dishes" />
+            <Button fx:id="removeOrderedDish" layoutX="14.0" layoutY="609.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="200.0" text="Remove" />
+            <Button fx:id="resolve" layoutX="222.0" layoutY="259.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="101.0" text="Resolve" />
+            <Button fx:id="confirmDishes" layoutX="224.0" layoutY="284.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="200.0" text="Confirm Dishes" />
+         </children>
+      </AnchorPane>
+      <AnchorPane prefHeight="600.0" prefWidth="400.0">
+         <children>
+            <ListView fx:id="tentativeDishListView" layoutX="22.0" layoutY="62.0" prefHeight="173.0" prefWidth="200.0" />
+            <Label layoutX="22.0" layoutY="45.0" text="Tentative Dishes" />
+            <ChoiceBox fx:id="newDishSelector" layoutX="22.0" layoutY="235.0" prefWidth="150.0" />
+            <Button fx:id="addNewDish" layoutX="173.0" layoutY="235.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="51.0" text="Add" />
+            <Label layoutX="240.0" layoutY="45.0" text="Ingredients/Modifications" />
+            <ListView fx:id="ingredientListView" layoutX="240.0" layoutY="62.0" prefHeight="200.0" prefWidth="200.0" />
+            <Button fx:id="incrementIngredient" layoutX="240.0" layoutY="262.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="101.0" text="+" />
+            <Button fx:id="decrementIngredient" layoutX="340.0" layoutY="262.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="101.0" text="-" />
+            <TextArea fx:id="billArea" editable="false" layoutX="241.0" layoutY="356.0" prefHeight="254.0" prefWidth="200.0" />
+            <Label layoutX="241.0" layoutY="339.0" text="Bill" />
+            <Button fx:id="removeDishFromOrder" layoutX="22.0" layoutY="262.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="200.0" text="Remove" />
+            <ListView fx:id="deliveredDishView" layoutX="21.0" layoutY="356.0" prefHeight="254.0" prefWidth="200.0" />
+            <Label layoutX="21.0" layoutY="339.0" text="Delivered Dishes" />
+            <Button fx:id="showIndividual" layoutX="240.0" layoutY="610.0" mnemonicParsing="false" text="Individual" />
+            <Button fx:id="showCombined" layoutX="308.0" layoutY="610.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="131.0" text="Combined" />
+            <Button fx:id="sendBack" layoutX="21.0" layoutY="610.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="200.0" text="Send back to kitchen" />
+         </children>
+      </AnchorPane>
+   </items>
+</fx:root>

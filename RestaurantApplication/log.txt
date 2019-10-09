@@ -1,0 +1,564 @@
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John added order #1 to table #15.
+John tried to add #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15's, order #1 tentative order, but there were insufficient ingredients
+John sent the orders for table #15 to the kitchen.
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John found something wrong with dish #0, and sent it back to the kitchen.
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John found something wrong with dish #0, and sent it back to the kitchen.
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John removed ordered dish #1 from table #15's order.
+John found something wrong with dish #0, and sent it back to the kitchen.
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added order #1 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John found something wrong with dish #0, and sent it back to the kitchen.
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #0 from table #15's order.
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John added table number #15 to the active tables.
+John added table number #152 to the active tables.
+John added order #0 to table #15.
+John added order #1 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John resolved order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John resolved order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John sent the orders for table #15 to the kitchen.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John resolved order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John added #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #1, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John removed ordered dish #1 from table #15's order.
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John resolved order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John resolved order #0
+John added table number #51 to the active tables.
+John added order #0 to table #51.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #51, order #0's tentative order
+John sent the orders for table #51 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #51, Order #0 is ready to be served
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #51, Order #0
+John resolved order #0
+John added table number #15 to the active tables.
+John added order #0 to table #15.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #15, order #0's tentative order
+John sent the orders for table #15 to the kitchen.
+Added a request for Bread
+Added a request for Lettuce
+Added a request for Beef Patty
+Added a request for Cheese
+Added a request for Tomato
+Added a request for Pickle
+Added a request for Onion
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+Bob has finished cooking #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+#0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion for Table #15, Order #0 is ready to be served
+John delivered #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to Table #15, Order #0
+John found something wrong with dish #0, and sent it back to the kitchen.
+Tell Table #15, Order #0 that the Burger is currently unavailable, and remove #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion
+John added table number #1 to the active tables.
+John added order #0 to table #1.
+John added #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 1.0 Pickle, 1.0 Onion to table #1, order #0's tentative order
+John sent the orders for table #1 to the kitchen.
+Tell Table #1, Order #0 that the Burger is currently unavailable, and remove #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 20.5 Pickle, 1.0 Onion from their ordered dishes
+Bob has seen #0, Burger, with 1.0 Bread, 1.0 Lettuce, 1.0 Beef Patty, 1.0 Cheese, 1.0 Tomato, 20.5 Pickle, 1.0 Onion
+John removed ordered dish #0 from table #1's order.
